@@ -19,7 +19,7 @@ body {
 }
 
 .top {
-  background-image: linear-gradient(0deg, #3B181E 3.33%, rgba(59, 24, 30, 0) 10%), url(../img/bgflow.png);
+  background-image: linear-gradient(0deg, #3B181E 3.33%, rgba(59, 24, 30, 0) 10%), url(img/bgflow.png);
   height: 1044px;
   background-size: cover;
   padding: 10px 80px 10px 80px;
@@ -265,25 +265,25 @@ a:hover {
 }
 
 .grid__card:nth-child(1) {
-  background-image: url(/img/block1.jpg);
+  background-image: url(img/block1.jpg);
   object-fit: cover;
   background-repeat: no-repeat;
 }
 
 .grid__card:nth-child(2) {
-  background-image: url(/img/block2.jpg);
+  background-image: url(img/block2.jpg);
   object-fit: cover;
   background-repeat: no-repeat;
 }
 
 .grid__card:nth-child(3) {
-  background-image: url(/img/block3.jpg);
+  background-image: url(img/block3.jpg);
   object-fit: cover;
   background-repeat: no-repeat;
 }
 
 .grid__card:nth-child(4) {
-  background-image: url(/img/block4.jpg);
+  background-image: url(img/block4.jpg);
   object-fit: cover;
   background-repeat: no-repeat;
 }
@@ -379,7 +379,7 @@ a:hover {
   max-width: 700px;
   min-height: 410px;
   object-fit: cover;
-  background-image: url(/img/sale.jpg);
+  background-image: url(img/sale.jpg);
   background-repeat: no-repeat;
 }
 
@@ -451,7 +451,7 @@ a:hover {
 
 .activity__img {
   min-width: 1086px;
-  background-image: url(../img/bgflow.png);
+  background-image: url(img/bgflow.png);
   height: 1044px;
   background-size: cover;
 }
